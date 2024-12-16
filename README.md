@@ -12,7 +12,7 @@ Número de participantes: **23 pessoas**
 Apresentações/painéis que aconteceram durante o evento:
 
 
-**# Novidades na nuvem e DevOps: Azure, GitHub, Azure DevOps e muito mais!**
+_# Novidades na nuvem e DevOps: Azure, GitHub, Azure DevOps e muito mais!_
 
 Participantes:
 - Vinicius Moura (Microsoft MVP)
@@ -21,7 +21,9 @@ Participantes:
 - Talles Valiatti (Microsoft MVP)
 - Milton Camara Gomes (Microsoft MVP)
 
-**# Novidades na nuvem e DevOps: Azure, GitHub, Azure DevOps e muito mais!**
+Tecnologias abordadas: **.NET 9, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, GitHub Copilot, Azure OpenAI, Azure DevOps, GitHub Actions, Microsoft Azure**
+
+_# Novidades no Desenvolvimento de Aplicações: .NET 9, ASP.NET Core, MAUI, Visual Studio..._
 
 Participantes:
 - Renato Groffe (Microsoft MVP, Docker Captain, MTAC)
@@ -30,9 +32,9 @@ Participantes:
 - Milton Camara Gomes (Microsoft MVP)
 - Ramon Durães (Microsoft MVP)
 
----
+Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, Azure OpenAI, Ollama, Semantic Kernel, AI Building Blocks, OpenTelemetry, Redis, Microsoft Azure**
 
-Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, GitHub Copilot, Azure OpenAI, Ollama, Semantic Kernel, AI Building Blocks, Azure DevOps, GitHub Actions, OpenTelemetry, Redis, Microsoft Azure**
+---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
