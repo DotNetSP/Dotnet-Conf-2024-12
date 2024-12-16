@@ -54,6 +54,10 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ![Painel 1 - Tomada 2](img/p01-12.jpg)
 
+![Painel 2 - Tomada 1](img/p02-10.jpg)
+
+![Painel 2 - Tomada 2](img/p02-15.jpg)
+
 ![Bertuzzi, Groffe e Talles](img/geral-01.jpg)
 
 ![Milton, Groffe, Ramon e Giancarlo](img/geral-02.jpg)
