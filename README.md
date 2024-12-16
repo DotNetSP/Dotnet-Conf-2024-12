@@ -32,7 +32,7 @@ Participantes:
 
 ---
 
-Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Visual Studio 2022, Visual Studio Code, GitHub Copilot, Azure OpenAI, Ollama, Azure DevOps, GitHub Actions, OpenTelemetry, Redis, Microsoft Azure**
+Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, GitHub Copilot, Azure OpenAI, Ollama, Azure DevOps, GitHub Actions, OpenTelemetry, Redis, Microsoft Azure**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
@@ -47,3 +47,7 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ---
 
 ![Banner do evento](img/banner-dotnet-conf-2024-12.png)
+
+![Bertuzzi, Groffe e Talles](img/geral-01.jpg)
+
+![Milton, Groffe, Ramon e Giancarlo](img/geral-02.jpg)
