@@ -32,9 +32,11 @@ Participantes:
 
 ---
 
-Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, GitHub Copilot, Azure OpenAI, Ollama, Azure DevOps, GitHub Actions, OpenTelemetry, Redis, Microsoft Azure**
+Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, GitHub Copilot, Azure OpenAI, Ollama, Semantic Kernel, AI Building Blocks, Azure DevOps, GitHub Actions, OpenTelemetry, Redis, Microsoft Azure**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
+
+Para acessar a gravação do evento no **YouTube** clique neste [**link**](https://youtu.be/hiqYueFjdXQ).
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e o [**Microsoft Reactor**](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/).
 
@@ -47,6 +49,10 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ---
 
 ![Banner do evento](img/banner-dotnet-conf-2024-12.png)
+
+![Painel 1 - Tomada 1](img/p01-08.jpg)
+
+![Painel 1 - Tomada 2](img/p01-12.jpg)
 
 ![Bertuzzi, Groffe e Talles](img/geral-01.jpg)
 
